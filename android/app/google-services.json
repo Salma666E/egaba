@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471070835756",
+    "firebase_url": "https://filterdimages-default-rtdb.firebaseio.com",
+    "project_id": "filterdimages",
+    "storage_bucket": "filterdimages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471070835756:android:cde96d949aeafa90effd89",
+        "android_client_info": {
+          "package_name": "com.sf.egaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471070835756-ctea1nsndakkd4rvfed2h1ujkevosgbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqu5sJi6vMj3c-nz_Rj2eRU9Bf2b9oSFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471070835756-ctea1nsndakkd4rvfed2h1ujkevosgbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471070835756-911t3snhus5v9lnf5jbto5tepbogn8ap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.images.filtter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
